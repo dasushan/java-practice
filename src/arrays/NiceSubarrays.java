@@ -21,6 +21,7 @@ public class NiceSubarrays {
                 }
                 i++;
             }
+
             if(cnt==k){
                 int val = i;
                 while(cnt==k){
