@@ -18,6 +18,13 @@ public class PrefixesOfString2 {
         for(String i: words){
             if(s.startsWith(i)) cnt++;
         }
+
+//        String s1 = "aa";
+//        int l=0;
+//        int r= s1.length()-1;
+//        s1 = s1.substring(l+1, r);
+//        System.out.println(s1.length());
+//        System.out.println(s1);
         return cnt;
     }
 }
