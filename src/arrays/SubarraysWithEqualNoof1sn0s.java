@@ -1,7 +1,7 @@
 package arrays;
 
 import java.util.HashMap;
-
+// count subarrays with equal number of 1's n 0's
 public class SubarraysWithEqualNoof1sn0s {
     public static void main(String[] args) {
         int[] binary = {1,0,0,1,0,1,1};
