@@ -1,7 +1,7 @@
 package strings;
 
 import java.util.Arrays;
-
+// https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/description/
 public class LongestSubstringAtLeastKRepeatingChars {
     public static void main(String[] args) {
         String s = "aaabbcddaeaaff";
